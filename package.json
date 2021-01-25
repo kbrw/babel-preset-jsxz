@@ -1,6 +1,6 @@
 {
   "name": "@kbrw/babel-preset-jsxz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Babel preset for JSXZ: wrapper around transform-jsxz",
   "author": "Kbrw <contact@kbrw.fr>",
   "homepage": "https://github.com/kbrw/babel-plugin-transform-jsxz",
