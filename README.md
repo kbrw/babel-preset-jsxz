@@ -2,7 +2,7 @@
 
 > Babel preset for JSXZ transform
 
-see [https://github.com/awetzel/babel-plugin-transform-jsxz](https://github.com/awetzel/babel-plugin-transform-jsxz)
+see [https://github.com/kbrw/babel-plugin-transform-jsxz](https://github.com/kbrw/babel-plugin-transform-jsxz)
 
 For more explanation about the JSXZ transformation : generate your
 react component from html at compile time.
