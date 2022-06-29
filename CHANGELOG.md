@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 Changelog format inspired by [keep-a-changelog]
 
 [keep-a-changelog]: https://github.com/olivierlacan/keep-a-changelog
-[unreleased]: https://github.com/kbrw/babel-preset-jsxz/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/kbrw/babel-preset-jsxz/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/kbrw/babel-preset-jsxz/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/kbrw/babel-preset-jsxz/compare/v1.0.2...v1.1.0
 [1.0.2]: https://github.com/kbrw/babel-preset-jsxz/compare/v0.0.0...v1.0.2
